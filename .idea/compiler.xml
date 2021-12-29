@@ -10,6 +10,7 @@
         <module name="spi-achieve-two" />
         <module name="spi-interface-define" />
         <module name="spi-jdbc" />
+        <module name="spi-log" />
         <module name="spi-test" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="spi-achieve-two" target="1.5" />
       <module name="spi-interface-define" target="1.5" />
       <module name="spi-jdbc" target="1.5" />
+      <module name="spi-log" target="1.5" />
       <module name="spi-test" target="8" />
     </bytecodeTargetLevel>
   </component>

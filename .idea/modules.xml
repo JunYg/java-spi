@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/spi-demo.iml" filepath="$PROJECT_DIR$/.idea/spi-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spi-interface-define/spi-interface-define.iml" filepath="$PROJECT_DIR$/spi-interface-define/spi-interface-define.iml" />
       <module fileurl="file://$PROJECT_DIR$/spi-jdbc/spi-jdbc.iml" filepath="$PROJECT_DIR$/spi-jdbc/spi-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-log/spi-log.iml" filepath="$PROJECT_DIR$/spi-log/spi-log.iml" />
       <module fileurl="file://$PROJECT_DIR$/spi-test/spi-test.iml" filepath="$PROJECT_DIR$/spi-test/spi-test.iml" />
     </modules>
   </component>

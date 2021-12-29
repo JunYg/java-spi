@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spi-achieve-two/pom.xml" />
         <option value="$PROJECT_DIR$/spi-interface-define/pom.xml" />
         <option value="$PROJECT_DIR$/spi-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spi-log/pom.xml" />
       </list>
     </option>
   </component>
