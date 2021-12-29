@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spi-achieve-one/spi-achieve-one.iml" filepath="$PROJECT_DIR$/spi-achieve-one/spi-achieve-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-achieve-two/spi-achieve-two.iml" filepath="$PROJECT_DIR$/spi-achieve-two/spi-achieve-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spi-demo.iml" filepath="$PROJECT_DIR$/.idea/spi-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-interface-define/spi-interface-define.iml" filepath="$PROJECT_DIR$/spi-interface-define/spi-interface-define.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-jdbc/spi-jdbc.iml" filepath="$PROJECT_DIR$/spi-jdbc/spi-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-test/spi-test.iml" filepath="$PROJECT_DIR$/spi-test/spi-test.iml" />
+    </modules>
+  </component>
+</project>
